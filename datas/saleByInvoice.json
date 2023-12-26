@@ -1,0 +1,165 @@
+{
+  "branchName": "Koramangala",
+  "branchCode": "KOR",
+  "brandName": "SMOOR CHOCOLATES",
+  "invoiceNumber": "39221",
+  "splitInvoiceNumbers": ["KORE-1623"],
+  "invoiceDate": "2022-01-24T22:23:11+05:30",
+  "invoiceDay": "2022-01-24",
+  "createdDate": "2022-01-24T22:23:03+05:30",
+  "modifiedDate": "2022-01-24T22:35:05+05:30",
+  "deviceLabel": "Smoor2",
+  "chargeTaxTotal": 0,
+  "invoiceType": "Sale",
+  "note": "Please write on top of cake: \nHappy Birthday Sanju",
+  "fulfillmentStatus": "Delivered",
+  "delivery": {
+    "name": "SWIGGY",
+    "mode": "Pickup",
+    "deliveryDate": "2022-01-24T22:32:36+05:30"
+  },
+  "deliveryBy": {
+    "name": "Arun",
+    "phoneNumber": "8892225420"
+  },
+  "label": "5317",
+  "resourceInfo": {
+    "resourceName": "5317"
+  },
+  "channel": "Swiggy",
+  "currency": "INR",
+  "itemCount": 1,
+  "itemTotalAmount": 803,
+  "discountAmount": 0,
+  "itemDiscountAmount": -102,
+  "totalDiscountAmount": -102,
+  "directChargeAmout": 0,
+  "chargeAmount": 0,
+  "taxAmountIncluded": 0,
+  "taxAmountExcluded": 0,
+  "taxAmount": 0,
+  "billAmount": 803,
+  "grossAmount": 905,
+  "netDiscountAmount": -102,
+  "netAmount": 803,
+  "netChargeAmount": 0,
+  "roundOffAmount": -0.15,
+  "billRoundedAmount": 802.85,
+  "tipAmount": 0,
+  "totalCost": 516.51,
+  "charges": [],
+  "discounts": [],
+  "taxes": [],
+  "payments": [
+    {
+      "mode": "SWIGGY",
+      "amount": 802.85,
+      "postedDate": "2022-01-24T22:23:03+05:30",
+      "balanceAmount": 0
+    }
+  ],
+  "overallRefunds": [],
+  "url": "https://apps.ristaapps.com/be/order?_o=y&id=61eed96f486e0d0fc1073970&uuid=24f07775-5b58-49af-99a8-a1e6d8b3a07c&_sign=u2%2BB3nZj%2FBgUdveSUttm6ugwNL6v8y00Ox0lAFj2IJs%3D",
+  "eventLog": [
+    {
+      "status": "Created",
+      "eventByUserName": "SYSTEM",
+      "eventDate": "2022-01-24T22:23:03+05:30"
+    },
+    {
+      "status": "Accepted",
+      "eventByUserName": "Koramangala 1",
+      "eventDate": "2022-01-24T22:23:11+05:30"
+    },
+    {
+      "status": "Closed",
+      "eventByUserName": "Koramangala 1",
+      "eventDate": "2022-01-24T22:23:11+05:30"
+    },
+    {
+      "status": "RiderAssigned",
+      "eventByUserName": "Arun",
+      "eventDate": "2022-01-24T22:23:25+05:30"
+    },
+    {
+      "status": "Processed",
+      "eventByUserName": "Koramangala 1",
+      "eventDate": "2022-01-24T22:25:10+05:30"
+    },
+    {
+      "status": "RiderArrived",
+      "eventByUserName": "SYSTEM",
+      "eventDate": "2022-01-24T22:28:28+05:30"
+    },
+    {
+      "status": "Dispatched",
+      "note": "swiggy collected order at 2022-01-24T22:29:27+05:30",
+      "eventByUserName": "SYSTEM",
+      "eventDate": "2022-01-24T22:29:28+05:30"
+    },
+    {
+      "status": "Delivered",
+      "eventByUserName": "SYSTEM",
+      "eventDate": "2022-01-24T22:35:05+05:30"
+    }
+  ],
+  "status": "Closed",
+  "sourceInfo": {
+    "invoiceNumber": "126118355317",
+    "invoiceDate": "2022-01-24T22:22:36+05:30",
+    "source": "swiggy",
+    "sourceOutletId": "70012",
+    "outletId": "swiggy_610cd10df6eff",
+    "isEcomOrder": true
+  },
+  "saleBy": "Koramangala 1",
+  "items": [
+    {
+      "shortName": "Smoor Lotus Biscoff Beauty Cake Half Kg",
+      "longName": "Smoor Lotus Biscoff Beauty Cake Half Kg",
+      "variants": "",
+      "skuCode": "FGD0393",
+      "categoryName": "Cakes & Pastries",
+      "subCategoryName": "Half Cakes",
+      "quantity": 1,
+      "unitPrice": 905,
+      "measuringUnit": "Nos",
+      "itemNature": "Service",
+      "itemAmount": 905,
+      "optionAmount": 0,
+      "discountAmount": -102,
+      "factoredDiscountAmount": 0,
+      "itemTotalAmount": 803,
+      "grossAmount": 905,
+      "netDiscountAmount": -102,
+      "netAmount": 803,
+      "taxAmountIncluded": 0,
+      "taxAmountExcluded": 0,
+      "taxAmount": 0,
+      "itemCost": 516.51,
+      "createdTime": "2022-01-24T22:23:03+05:30",
+      "createdBy": "SYSTEM",
+      "options": [],
+      "discounts": [
+        {
+          "name": "Restaurant Discount",
+          "type": "Absolute",
+          "rate": 102,
+          "saleAmount": 905,
+          "amount": -102,
+          "appliedBy": "SYSTEM"
+        }
+      ],
+      "taxes": [],
+      "kotNumber": "39221-1",
+      "baseGrossAmount": 905,
+      "baseNetDiscountAmount": -102,
+      "baseNetAmount": 803,
+      "baseTaxAmount": 0,
+      "kotGroup": "Bill ",
+      "kotStatus": "Processed",
+      "kotTimestamp": "2022-01-24T22:23:11+05:30"
+    }
+  ],
+  "totalAmount": 802.85
+}

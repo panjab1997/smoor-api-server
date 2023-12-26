@@ -1,0 +1,161 @@
+[
+  {
+    "timestamp": "25-11-2023",
+    "branch": "BEl",
+    "sales": {
+      "netAmount": 50693.9,
+      "categories": [
+        {
+          "name": "Baklava",
+          "amount": 434
+        },
+        {
+          "name": "Beverages",
+          "amount": 6209.24
+        },
+        {
+          "name": "Cakes & Pastries",
+          "amount": 25717.37
+        },
+        {
+          "name": "Chocolates",
+          "amount": 6218.37
+        },
+        {
+          "name": "Material",
+          "amount": 286
+        },
+        {
+          "name": "Not Categoriezed",
+          "amount": 1111.68
+        },
+        {
+          "name": "Ready To Eat",
+          "amount": 8557.85
+        },
+        {
+          "name": "SMOOR Bakeshop",
+          "amount": 1943.65
+        },
+        {
+          "name": "Tea Cakes & Muffins",
+          "amount": 215.75
+        }
+      ],
+      "items": [
+        {
+          "skuCode": "440",
+          "itemName": "Schezwan Fried Rice (Chicken)",
+          "itemTotalNetAmount": 319.85,
+          "quantity": 12
+        },
+        {
+          "skuCode": "970",
+          "itemName": "Stir Fried Chicken In Black Pepper",
+          "itemTotalNetAmount": 210.85,
+          "quantity": 11
+        }
+      ],
+      "costs": [
+        {
+          "costType": "Materials",
+          "amount": 3949.43
+        },
+        {
+          "costType": "Materials Audit",
+          "amount": -109.3
+        },
+        {
+          "costType": "Materials Shrinkage",
+          "amount": 1.1
+        },
+        {
+          "costType": "Supplies",
+          "amount": 534.28
+        }
+      ],
+      "noOfSales": 65
+    }
+    
+  },
+  {
+    "timestamp": "25-11-2023",
+    "branch": "JAY",
+    "sales": {
+      "netAmount": 93018.01,
+      "categories": [
+        {
+          "name": "Baklava",
+          "amount": 771
+        },
+        {
+          "name": "Beverages",
+          "amount": 14319.2
+        },
+        {
+          "name": "Cakes & Pastries",
+          "amount": 32363.61
+        },
+        {
+          "name": "Chocolates",
+          "amount": 7335.31
+        },
+        {
+          "name": "Macarons",
+          "amount": 4951
+        },
+        {
+          "name": "Material",
+          "amount": 838
+        },
+        {
+          "name": "Ready To Eat",
+          "amount": 29773.21
+        },
+        {
+          "name": "SMOOR Bakeshop",
+          "amount": 2666.68
+        }
+      ],
+      "items": [
+        {
+          "skuCode": "358",
+          "itemName": "Hot Chocolate Belgium Classic Dark",
+          "itemTotalNetAmount": 2448.52,
+          "quantity": 12
+        },
+        {
+          "skuCode": "359",
+          "itemName": "Hot Chocolate Belgium Classic Milk",
+          "itemTotalNetAmount": 2448.52,
+          "quantity": 12
+        },
+        {
+          "skuCode": "360",
+          "itemName": "Hot Chocolate Belgium Classic White",
+          "itemTotalNetAmount": 2448.52,
+          "quantity": 12
+        }
+      ],
+      "costs": [
+        {
+          "costType": "Materials",
+          "amount": 3780.29
+        },
+        {
+          "costType": "Materials Audit",
+          "amount": 620.06
+        },
+        {
+          "costType": "Supplies",
+          "amount": 2167.02
+        },
+        {
+          "costType": "Supplies Voided",
+          "amount": 20.11
+        }
+      ],
+      "noOfSales": 107
+    }
+  }
+]

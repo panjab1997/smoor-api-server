@@ -1,0 +1,6913 @@
+[
+  {
+    "branchName": "Phoenix Market City",
+    "branchCode": "PMC",
+    "channels": [
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Bengaluru Group",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Smoor chocolates ,Phoenix Market City,S19 Block,2nd Floor,Whitefield main road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560048",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Head Office",
+    "branchCode": "HO",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "BLISS CHOCOLATES INDIA PRIVATE LIMITED",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Bengaluru, Devasandra Industrial Estate, Krishnarajapura",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560048",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "BEL Road",
+    "branchCode": "BEL",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No#70,MS Ramaiah road,80ft rd,RMV 2nd stage, 2nd Block",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560094",
+      "longitude": 77.5739817,
+      "latitude": 13.039301
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "HAL HUB",
+    "branchCode": "HAL",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Smoor Chocolates ,Kiosk , Bliss chocolates Factory Konena Agrahara,MES colony banglore-560017",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560017",
+      "longitude": 77.6593211,
+      "latitude": 12.955106
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Test.Rebel",
+    "branchCode": "TS",
+    "channels": [
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "Temp"
+      },
+      {
+        "name": "Website"
+      }
+    ],
+    "businessName": "BLISS CHOCOLATES INDIA PRIVATE LIMITED",
+    "status": "Active",
+    "priceBook": "Website",
+    "taxArea": "Test.Rebel",
+    "address": {
+      "addressLine": "Bengaluru, Devasandra Industrial Estate, Krishnarajapura",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560048",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Central test",
+    "branchCode": "CT",
+    "channels": [
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "Temp"
+      },
+      {
+        "name": "Website"
+      }
+    ],
+    "businessName": "BLISS CHOCLATES INDIA PVT LTD",
+    "status": "Active",
+    "priceBook": "Website",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "107, Whitefield Main Road, Devasandra Industrial Estate, Krishnarajapura",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560048",
+      "longitude": 77.69644402142639,
+      "latitude": 12.99648639532799
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Indiranagar",
+    "branchCode": "IND",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Indiranagar, No-1131, HAL 2nd Stage, 100 ft Road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560038",
+      "longitude": 77.65169784043762,
+      "latitude": 12.99216195971771
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Koramangala",
+    "branchCode": "KOR",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No 113, C main, Prestige Pinnacle,7th Block Koramangala.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560095",
+      "longitude": 77.63815087934573,
+      "latitude": 12.935744268393435
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "1 MG",
+    "branchCode": "1MG",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Ground Floor,1 MG Mall, Trinity Circle, Swami Vivekananda Rd",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560008",
+      "longitude": 77.62024868197021,
+      "latitude": 12.974173725244068
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Vega City",
+    "branchCode": "VC",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Unit GF-K -03, Vega City Mall, No 172/1, Srinivas Industrial Estate, Bilekahalli, Bannerghatta Rd.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560076",
+      "longitude": 77.6093886868164,
+      "latitude": 12.878150729555976
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Orion Mall",
+    "branchCode": "OM",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "NO. UGF Coffee Shop No-2 Orion Dr. Rajkumar Road Malleshwaram West.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560055",
+      "longitude": 77.55942252911376,
+      "latitude": 13.006506345042316
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Malad",
+    "branchCode": "MLD",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "#G-51, Ground Floor, Inorbit mall, Malad(west), Link Road. ",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400064",
+      "longitude": 72.84563964924317,
+      "latitude": 19.18025785476817
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Banni Square",
+    "branchCode": "BS",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No G1, Block A, Baani Square, Sector 50, near Barista cafe.",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "zip": "122018",
+      "longitude": 77.04433812905273,
+      "latitude": 28.417326517750205
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "HSR",
+    "branchCode": "HSR",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "1/120, 14th Main Road, 5th Sector, HSR Layout",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560102",
+      "longitude": 77.64253236347655,
+      "latitude": 12.912112981240599
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Electronic City",
+    "branchCode": "EC",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SY NO -84/4- Doddathogur Village, Begur Hobli, Bangalore South Taluk, Anekal.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560100",
+      "longitude": 77.67089658000947,
+      "latitude": 12.842053151709662
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Bellandur",
+    "branchCode": "BLN",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Bellandur Gate Road, Opp Bangalore Central , Bellandur.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560103",
+      "longitude": 77.68466493862304,
+      "latitude": 12.928195805915584
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Whitefield",
+    "branchCode": "WF",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "1 Kitchen, Bearing NO.12, Converge By UKN, 78/2, Siddapura Village, Nellurhalli Road, Varthur, Hobli, Siddapura, Whitefield, Bengaluru, BBMP East",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560066",
+      "longitude": 77.75099316826172,
+      "latitude": 12.969806600000016
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Nexus Mall",
+    "branchCode": "NM",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Smoor Chocolates, Nexus Mall , No, 21 Hosur Road ,Koramangala.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560095",
+      "longitude": 77.63874573032004,
+      "latitude": 12.937496604402213
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Airport QUAD",
+    "branchCode": "AQ",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Smoor Chocolates ,Kiosk no#6,The Quad,Bengaluru International Airport, Devanahalli,Banglore 560300\n\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560300",
+      "longitude": 77.69273135710853,
+      "latitude": 13.203114858798301
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Jayanagar",
+    "branchCode": "JAY",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "307/14 diamond arcade, 9th main, 39th A cross 5th block, Jayanagar.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560041",
+      "longitude": 77.5943907761963,
+      "latitude": 12.922711983883554
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Kamanahalli",
+    "branchCode": "KAM",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "GROUND FLOOR, 4C, 501, 5TH A MAIN ROAD, HBR LAYOUT 2ND BLOCK.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560043",
+      "longitude": 77.64737021586913,
+      "latitude": 13.020125056108842
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "PMC Kurla",
+    "branchCode": "KUR",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "UG-64, UPPER GROUND FLOOR, PHOENIX MARKET CITY KURLA (WEST), L. B. S. MARG.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400064",
+      "longitude": 72.84091896137696,
+      "latitude": 19.184797499136675
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Adarsh Palm Retreat",
+    "branchCode": "APR",
+    "channels": [
+      {
+        "name": "Delivery"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Adarsh Palm",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Adarsh Palm Retreat, Villa Club House, RMZ\nEcoworld Bellandur\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560103",
+      "longitude": 77.6848366,
+      "latitude": 12.9298689
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Forum Shantiniketan",
+    "branchCode": "FS",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "UG floor,  Forum Shantiniketan Mall,  Whitefiled main road, Thigalarapalya, Hoodi",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560048",
+      "longitude": 77.68954339999999,
+      "latitude": 12.9885104
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Express Avenue SMOOR",
+    "branchCode": "EAS",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "KIOSK NO FIRST FLOOR OF EXPRESS AVENUE 49 WHITES ROAD ROYAPETTAH, Ward - 111.",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600014",
+      "longitude": 80.26418439999999,
+      "latitude": 13.0584546
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Vashi Smoor",
+    "branchCode": "VS",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Unit No. G - 11A, Inorbit Mall, Sector 30A, Vashi, Navi Mumbai Muncipal Corporation, Maharashtra \n",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400705",
+      "longitude": 73.0110096,
+      "latitude": 19.0574665
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "1 Mg Cafe",
+    "branchCode": "1MGC",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "First Floor,1 MG Mall, Trinity Circle, Swami Vivekananda Rd.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560008",
+      "longitude": 77.61972899999999,
+      "latitude": 12.971087
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Velachery",
+    "branchCode": "VCY",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "1ST FLOOR, 22 (218), GANDHI ROAD, NEW COLONY, VALACHERY EAST, Corporation Ward - 179.",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600042",
+      "longitude": 77.7493434,
+      "latitude": 12.9658573
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Seawoods Mall",
+    "branchCode": "SM",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine in Food"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Unit No. UG-58, Upper Ground Floor, Nexus Seawoods Mall, Sector 40, Nerul, Seawoods West.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400706",
+      "longitude": 72.8567534,
+      "latitude": 19.0931403
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Yelahanka Cloud Kitchen",
+    "branchCode": "YCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "NO. 971/23,15, YELHANKA NEW TOWN, SECTOR-A, YELHANKA B.B.M.P. NORTH.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560064",
+      "longitude": 77.5863591,
+      "latitude": 13.10197
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Arumbakkam Cloud Kitchen",
+    "branchCode": "ACK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No. 15/90 1 St floor, NK Complex Razack Garden MMDA Main Road, Arumbakkam.",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600106",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Gurugram sector 31 Cloud Kitchen",
+    "branchCode": "GCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SCO NO.10,11,12 2nd Floor ,sector-31,Garhi Harsaru(46),Gurugram Haryana-122001",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "zip": "122001",
+      "longitude": 77.0219019,
+      "latitude": 28.4554726
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Bandra",
+    "branchCode": "BA",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine in Food"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SHOP NO. 8 GROUND FLOOR, PEARL HEAVEN COOPERATIVE HOUSING SOCIETY LTD. 86, CHAPEL ROAD, BANDRA WEST, GREATER MUMBAI WARD- H/W",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400050",
+      "longitude": 72.8299518,
+      "latitude": 19.0551695
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Whitefield Lounge",
+    "branchCode": "WFL",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SITE NO. 2, KATHA NO. 139, PROPERTY NO. 12/3, BENGALURU SOUTH TALUK, WHITEFILED.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560066",
+      "longitude": 77.61972899999999,
+      "latitude": 12.971087
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Dwarka Cloud Kitchen",
+    "branchCode": "DCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "PLOT NO. 4, SECTOR-4, LOCAL SHOPPING CENTRE NO. 1, DWARKA, PALAM South West.\n",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "zip": "110075",
+      "longitude": 77.0219019,
+      "latitude": 28.4554726
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "RT Nagar CK",
+    "branchCode": "RCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "#18, 2nd floor, Hmt layout, 80ft road, Ward no 20, Rt nagar.\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560032",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "RR Nagar CK",
+    "branchCode": "RNCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "#1078, 80feet road, 3rd stage, 6th main road, Kanakadasa circle, BEML layout, RR nagar, Bng-560098\n\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560098",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Uttarahalli CK",
+    "branchCode": "UCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "#1833, 1st floor, 14th cross road, 2nd stage, Bendre nagar, Kumaraswamy layout.\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560078",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Basaveshwara Nagar CK",
+    "branchCode": "BNCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "#353, 8th Avenue, 8th main, 1st A cross, 4th block, 3rd stage, Basaveshwara nagar.\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560079",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Vasanth Nagar CK",
+    "branchCode": "VCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "BLISS CHOCOLATES INDIA PRIVATE LIMITED",
+    "status": "Inactive",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "#17, 1st floor, 1st main road, Above SBI bank, Vasanth nagar, Bng-56052\n\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "56052",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Viviana Lounge Mumbai",
+    "branchCode": "VLM",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SMOOR VIVIANA MALL, UNIT.NO.SF - 45 A, 2ND FLOOR,POKHRAN ROAD NO.2, SUBHASH NAGAR, NEXT TO JUPITER HOSPITAL, THANE WEST.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400606",
+      "longitude": 72.8299518,
+      "latitude": 19.0551695
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Mahadevpura",
+    "branchCode": "MAHCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "66/2, 67/1, GARUDACHARPALYA WHITEFIELD MAIN ROAD, MAHADEVAPURA, B.B.M.P East.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560048",
+      "longitude": 77.7081261,
+      "latitude": 12.9853591
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Marathahalli CK",
+    "branchCode": "MACK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Rebel foods, 4th cross Tulasi theater,  Marathahalli road.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560037",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Sarjapur CK",
+    "branchCode": "SRCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "NO.53/2, SL.NO.319, DODDAKANNELLI VILLAGE, VARTHUR HOBLI, BANGALORE EAST, MAHADEVAPURA, BBMP EAST.\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560035",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Sakinaka CK",
+    "branchCode": "SAKCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Plot No.89, Unit No.5/6, Shivai Dongre Indl.premises, Saki Naka , Near LIC office, Andheri Kurka Road.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400072",
+      "longitude": 72.8299518,
+      "latitude": 19.0551695
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Mahakali CK",
+    "branchCode": "MAHA",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Gala no 20 MADHUBAN IND ESTATET, Near Holly Cross School ,Mahakali Andhari E.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400093",
+      "longitude": 72.8299518,
+      "latitude": 19.0551695
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Bhandup CK",
+    "branchCode": "BHCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SHOP NO. 4, GAMA HOUSE, GAMDEVI ROAD, BHANDUP WEST, Greater Mumbai Ward - B.\n",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400078",
+      "longitude": 72.8299518,
+      "latitude": 19.0551695
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Kharghar CK",
+    "branchCode": "KHAR",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Shop no 26, 27, 28, Simran Residency, Service Rd, Sector 7 kharghar, Navi Mumbai. ",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "410210",
+      "longitude": 72.8299518,
+      "latitude": 19.0551695
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Grant Road CK",
+    "branchCode": "GRCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SHOP NO. 12, 13, 14, GROUND\nFLOOR, NAVJIVAN COMMERCIAL\nPREMISES CO-OPERATIVE SOCIETY LTD., LAMINGTON ROAD, DR. DB\nMARG, Greater Mumbai\nWard-D.\n",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400008",
+      "longitude": 72.8299518,
+      "latitude": 19.0551695
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Chennai Warehouse",
+    "branchCode": "CW",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "KIOSK NO FIRST FLOOR OF EXPRESS AVENUE 49 WHITES ROAD ROYAPETTAH CHENNAI, Chennai Corp. Ward - 111, Chennai, Tamil Nadu-600014",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600014",
+      "longitude": 80.26418439999999,
+      "latitude": 13.0584546
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Airoli CK",
+    "branchCode": "AICK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SHOP NO. 12, 13, 14, GROUND\nFLOOR, NAVJIVAN COMMERCIAL\nPREMISES CO-OPERATIVE SOCIETY\nLTD., LAMINGTON ROAD, DR. DB\nMARG",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400021",
+      "longitude": 72.8242221,
+      "latitude": 18.9255728
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Mira Road CK",
+    "branchCode": "MRCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Shop No. 104, 100 Sq. ft Smoor area, 1st Floor, Eden Rose Shopping Centre CHS Ltd, Kankiya Road, Beverly Park, Mira Road East, Zone 1. ",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "401107",
+      "longitude": 72.8776559,
+      "latitude": 19.0759837
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Kadugodi CK",
+    "branchCode": "KDCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "MS COMMERCIAL BUILDING, OPP.\nTO SHELL PETROL BUNK, SEGHALLI\nROAD, KADUGODI POST\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560067",
+      "longitude": 77.68586656826172,
+      "latitude": 12.92945062753037
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Sadashivanagar",
+    "branchCode": "SNR",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Sadashiva Nagar, Armane Nagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "longitude": 77.5812849,
+      "latitude": 13.0068182
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Green Park CK",
+    "branchCode": "GPCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Green Park",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "longitude": 77.2029376,
+      "latitude": 28.5584489
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Kalkaji CK",
+    "branchCode": "KCKK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "TA 4, TUGALKABAD EXTN, KALKAJI South East.",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "zip": "110019",
+      "longitude": 77.2601742,
+      "latitude": 28.5346916
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Malviya Nagar CK",
+    "branchCode": "MNCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Malviya Nagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "zip": "110017",
+      "longitude": 77.2094473,
+      "latitude": 28.5342332
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Lavelle Road",
+    "branchCode": "LR",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Ground Floor, PRESTIGE STERLING SQUARE, MADRAS BANK ROAD, Shanthinagara , B.B.M.P East.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560001",
+      "longitude": 77.5992708,
+      "latitude": 12.9765944
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Udyog Vihar CK",
+    "branchCode": "UVK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "zip": "122018",
+      "longitude": 77.04433812905273,
+      "latitude": 28.417326517750205
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Smoor - Defence Colony CK",
+    "branchCode": "DCCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "PLOT NO. 59-B, 2ND FLOOR, NEAR JAWALA PRASAD BUILDING KOTLA MUBARAK PUR , DEFENCE COLONY, South East.",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "zip": "110003",
+      "longitude": 77.2317863,
+      "latitude": 28.5916468
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Ambience Mall",
+    "branchCode": "AM",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SMOOR CHOCOLATES, #2, FIRST\nFLOOR, NELSON MANDELA MARG,\nAMBIANCE MALL, VASANT KUNJ,\nDELHI, KAPESHERA, South West ,\nDelhi, 110070\n",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "zip": "110070",
+      "longitude": 77.0219019,
+      "latitude": 28.4554726
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Rohini CK",
+    "branchCode": "ROCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "GROUND FLOOR, PLOT NO. 10/ B4/10, BAWANA RD., SHABAD EXTENSION, SECTOR-17, ROHINI, North West.",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "longitude": 77.0822151,
+      "latitude": 28.73826769999999
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Koreagaon Park",
+    "branchCode": "KP",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine in Food"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "UPPER GROUND FLOOR, SHOP NO. 3, POWER\nPOINT BUILDING, LANE NO 6, OPP MURPHIES ABOVE HUBER AND HOLLY KOREGAON PARK. \n",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "411001",
+      "longitude": 77.6967337,
+      "latitude": 12.9974168
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "BLR Airport Terminal 1",
+    "branchCode": "BAT",
+    "channels": [
+      {
+        "name": "Delivery"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      }
+    ],
+    "businessName": "Delicant Foods LLP",
+    "status": "Active",
+    "priceBook": "Airport PB",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Terminal 1 Domestic SHA,\n Kempegowda international Airport.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560300",
+      "longitude": 77.57381,
+      "latitude": 12.9767434
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Infinity Mall Malad",
+    "branchCode": "IMM",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "GF 044 Infiniti Mall, New Link Road, Mindspace, Malad West.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400064",
+      "longitude": 72.84074729999999,
+      "latitude": 19.1872294
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Phoenix Mall Pune",
+    "branchCode": "PMP",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Unit No G/8, Phoenix Market City, Lower Ground Floor, Viman Nagar.",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "411014",
+      "longitude": 73.92830049999999,
+      "latitude": 18.5574028
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Laxmi Nagar",
+    "branchCode": "LN",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "42, Vikas Marg, opp. Metro Pillar Number 41, Laxmi Nagar, Block A, Shakarpur.",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "zip": "110092",
+      "longitude": 77.2922332,
+      "latitude": 28.6362211
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Mukherjee Nagar",
+    "branchCode": "MN",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "M-3, PLOT NUMBER 4,5,6, 1ST FLOOR, VISHAL MARKET, BHAI PARMANAD COLONY, MUKHERJEE NAGAR. ",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "zip": "110079",
+      "longitude": 77.04884559999999,
+      "latitude": 28.5995473
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Padur CH",
+    "branchCode": "PCH",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No.43, OMR Road, Padur,Thiruporur Kancheepuram Tamilnadu 631606 Padur",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "631606",
+      "longitude": 79.8800832,
+      "latitude": 12.7771929
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Avadi CH",
+    "branchCode": "ACH",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No.235/7 New Military Road Avadi, FC.",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600054",
+      "longitude": 80.0814292,
+      "latitude": 13.1261842
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "West Tambaram",
+    "branchCode": "WT",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Old No.46 , New, No.449, Mudichur Rd, Tambaram West.",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600045",
+      "longitude": 80.1118791,
+      "latitude": 12.9307167
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Medavakkam TN",
+    "branchCode": "MTN",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "4/13, Ex-Service Man colony, 1st St, Jaladianpet, Medavakkam.",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600100",
+      "longitude": 80.1940972,
+      "latitude": 12.9171412
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Ramapuram TN",
+    "branchCode": "RTN",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "3/9B, Ground Floor Sri Gangaiah Naidu Industrial Avenue, Valluvar Salai, Ramapuram, Chennai, Tamil Nadu ",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600089",
+      "longitude": 80.18702239999999,
+      "latitude": 13.0180773
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Versova",
+    "branchCode": "VV",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine in Food"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Shop 16A & 16B, Hubtown Premiere\nVersova Highstreet, JP Road,\nVersova, Andheri West,                                 Greater Mumbai Ward-K/W.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400061",
+      "longitude": 72.8053441,
+      "latitude": 19.1426559
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Godrej One",
+    "branchCode": "GO",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine in Food"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Unit No.GC, Grnd Flr Canteen\nPremises, Godrej One, Pirojsha\nNagar, Vikhroli E, Greater Mumbai\nWard-N.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400079",
+      "longitude": 72.92543069999999,
+      "latitude": 19.1025427
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Noida Sector 46",
+    "branchCode": "NS46",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "NO. B, 2ND FLOOR, PLOT NO. B-156A, ABOVE\nHDFC BANK TULIP MALL, SECTOR-46, NOIDA,\nGautamBudh Nagar Tahsil-II, Gautam Buddha\nNagar",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "zip": "201301",
+      "longitude": 77.3266991,
+      "latitude": 28.5821195
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Noida Sector 2",
+    "branchCode": "NS2",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "D-97, SECTOR 2, OPP SAMSUNG OFFICE,,\nGautamBudh Nagar Tahsil-I, Gautam Buddha\nNagar , Uttar Pradesh",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "zip": "201301",
+      "longitude": 77.3266991,
+      "latitude": 28.5821195
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Greater Noida 2",
+    "branchCode": "GN2",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Inactive",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "PLOT NO. E26, KASANA SIGHT 4, UPSIDC,\nSURAJPUR GREATER NOIDA, GautamBudh\nNagar Tahsil-II, Gautam Buddha Nagar , Uttar\nPradesh",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "zip": "201306",
+      "longitude": 77.4587239,
+      "latitude": 28.5199
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Garuda Mall",
+    "branchCode": "GM",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Ground Floor, Garuda Mall, Magrath Road, Commissarite Road, Ashok Nagar , Mahadevapura , B.B.M.P East.\n",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560025",
+      "longitude": 77.60679979999999,
+      "latitude": 12.9662156
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Powai",
+    "branchCode": "POW",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Powai",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Unit No G1A, Delphi Building, Wing - A, CST No. 12/1, Village Powai, Mumbai Suburban, Greater Mumbai Ward-S.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400076",
+      "longitude": 72.90944069999999,
+      "latitude": 19.1239285
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "BLR Airport T2 International Bakery",
+    "branchCode": "BAT2",
+    "channels": [
+      {
+        "name": "Delivery"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "BLR Airport T2 Internatio",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SMOOR INTERNATIONAL BAKERY, LEVEL 0, 0T05, ARRIVAL FORECOURT FOR TERMINAL 2, KIAL",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560300",
+      "longitude": 77.70018230000001,
+      "latitude": 13.197984
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "MAP Smoor",
+    "branchCode": "MAPS",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Swiggy Gourmet Eats"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "SUA HOUSE, 26/1, KASTURBA CROSS ROAD.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560001",
+      "longitude": 77.5992708,
+      "latitude": 12.9765944
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "J.P Nagar",
+    "branchCode": "JPN",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Counter No. 9, # 35/4, 24th Main, JP Nagar 7th \nPhase, Puttenahalli, B.B.M.P South.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560078",
+      "longitude": 77.5764094,
+      "latitude": 12.898773
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Chennai ECR",
+    "branchCode": "CSR",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "15/16A4(15/2A), EAST COAST ROAD, Injambakkam, ST.Thomas Mount block Ward-196, Kancheepuram, Chennai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600115",
+      "longitude": 80.2511237,
+      "latitude": 12.9197836
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Perungudi CK",
+    "branchCode": "PCK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Chennai Delhi NCR No Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No. 27, Paularaj Nagar, 4th Link Road, Veeramani Salai, Kandanchavadi, Perungudi, ST.Thomas Mount block Ward-184, Kancheepuram",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600096",
+      "longitude": 80.2461057,
+      "latitude": 12.9653652
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Chembur East CK",
+    "branchCode": "CECK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Gala No.2, Ground Floor, Anwar Compound, Opp. Duke Soda Factory, Vaman Tukaram Patil Marg, Chembur East, Greater Mumbai Ward-M/E",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400071",
+      "longitude": 72.900522,
+      "latitude": 19.0522115
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "IC Colony CK",
+    "branchCode": "ICK",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Other State Nofood Swiggy"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Maharashtra Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No. 2, Thomos Compound, Near Cytheria Gym, Holy Cross Road, IC Colony, Borivali West, Greater Mumbai, Ward-R/C.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400103",
+      "longitude": 72.8522512,
+      "latitude": 19.2380683
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Cummulus",
+    "branchCode": "CLS",
+    "channels": [
+      {
+        "name": "Dine in Food"
+      }
+    ],
+    "businessName": "BLISS CHOCOLATES INDIA PRIVATE LIMITED",
+    "status": "Active",
+    "priceBook": "Cummulus",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Museum of Art & Photography (MAP), No. 22\n(PID No. 76-28-22) Lower Ground Floor & Fifth\nFloor, Kasturba Road, B.B.M.P East.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560001",
+      "longitude": 77.5992708,
+      "latitude": 12.9765944
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Bhartiya City Mall",
+    "branchCode": "BHAR",
+    "channels": [
+      {
+        "name": "Company Account"
+      },
+      {
+        "name": "Dine In"
+      },
+      {
+        "name": "Dine out"
+      },
+      {
+        "name": "DotPe Delivery and Pickup"
+      },
+      {
+        "name": "DotPe Dine In"
+      },
+      {
+        "name": "DotPe Takeaway"
+      },
+      {
+        "name": "Dunzo"
+      },
+      {
+        "name": "Eat Sure"
+      },
+      {
+        "name": "EazyDiner"
+      },
+      {
+        "name": "Inactive"
+      },
+      {
+        "name": "Rebel Corporate Orders"
+      },
+      {
+        "name": "Smoor Amazon"
+      },
+      {
+        "name": "Swiggy"
+      },
+      {
+        "name": "Swiggy (No Food)"
+      },
+      {
+        "name": "Take away"
+      },
+      {
+        "name": "Website"
+      },
+      {
+        "name": "Zomato"
+      },
+      {
+        "name": "Zomato (No Food)"
+      },
+      {
+        "name": "Zomato Smoor Gourmet Eats"
+      },
+      {
+        "name": "magicpin"
+      }
+    ],
+    "businessName": "Bliss Chocolates India PVT LTD",
+    "status": "Active",
+    "priceBook": "Bangalore Non Food",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Upper Ground Floor, Bhartiya Mall, Bhartiya City Mall, Thanisandra Main Road.",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560064",
+      "longitude": 77.5863591,
+      "latitude": 13.10197
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Bangalore Factory",
+    "branchCode": "BFC",
+    "channels": [
+      {
+        "name": "Website"
+      }
+    ],
+    "businessName": "Bliss Chocolates India PVT LTD",
+    "status": "Active",
+    "priceBook": "Virtual Kitchen - Factory",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No. 21, MES Colony, 1st main road, Konena\nagrahara, Bangalore., Bangalore East,\nBangalore Urban",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "zip": "560017",
+      "longitude": 77.5945627,
+      "latitude": 12.9715987
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Mumbai Factory",
+    "branchCode": "MFC",
+    "channels": [
+      {
+        "name": "Website"
+      }
+    ],
+    "businessName": "Bliss Chocolates India PVT LTD",
+    "status": "Active",
+    "priceBook": "Virtual Kitchen - Factory",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "Indiplex IV, Unit Nos. C&D,\nSurvey No.12/9A,Village Ghodbunder,\nNear Reliance Receiving Station, Shanti Vidya\nNagari Road,\nMira Road (East), Thane",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "401104",
+      "longitude": 72.8776559,
+      "latitude": 19.0759837
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "Chennai Factory",
+    "branchCode": "SCF",
+    "channels": [
+      {
+        "name": "Website"
+      }
+    ],
+    "businessName": "BLISS CHOCOLATES INDIA PRIVATE LIMITED",
+    "status": "Active",
+    "priceBook": "Virtual Kitchen - Factory",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "15/16A4(15/2A), EAST COAST ROAD,\nINJAMBAKKAM, CHENNAI, ST.Thomas Mount\nblock Ward-196, Kancheepuram",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zip": "600115",
+      "longitude": 80.25058369999999,
+      "latitude": 12.9169431
+    },
+    "branchLabels": "Outlet"
+  },
+  {
+    "branchName": "NCR Factory",
+    "branchCode": "NCRF",
+    "channels": [
+      {
+        "name": "Website"
+      }
+    ],
+    "businessName": "Bliss chocolates India PVT Ltd",
+    "status": "Active",
+    "priceBook": "Virtual Kitchen - Factory",
+    "taxArea": "Karnataka",
+    "address": {
+      "addressLine": "No 263, Udyog Vihar Phase- 1, Gurgaon,\n",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "zip": "122022",
+      "longitude": 77.06569979999999,
+      "latitude": 28.4612798
+    },
+    "branchLabels": "Outlet"
+  }
+]

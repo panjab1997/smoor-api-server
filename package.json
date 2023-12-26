@@ -1,0 +1,19 @@
+{
+  "name": "smoor-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panjab1997/smoor-api-server.git"
+  },
+  "author": "[\"panjabsingh\", \"stanlymathai\"]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panjab1997/smoor-api-server/issues"
+  },
+  "homepage": "https://github.com/panjab1997/smoor-api-server#readme"
+}
