@@ -1,0 +1,209 @@
+{
+	"info": {
+		"_postman_id": "d6a89ea6-090d-41d8-ad59-0d00c5c1179c",
+		"name": "smoor_api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31416823"
+	},
+	"item": [
+		{
+			"name": "getBranchList",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "dfaf6eea-3622-40d5-b61b-eacdd36fd921"
+					},
+					{
+						"key": "x-api-token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJkZmFmNmVlYS0zNjIyLTQwZDUtYjYxYi1lYWNkZDM2ZmQ5MjEiLCJpYXQiOjE3MDM1MjU3MjMsImp0aSI6IjA0MTVkMDE1LTEzYmYtNDVjOS04NmFjLTg5ZmU0OGQ3NGY4NSJ9.1rMui0Fy5mlgn-eAUTpl9u7To1Z5Iz3LVH9RqBlVGf0"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"url": {
+					"raw": "https://api.ristaapps.com/v1/branch/list",
+					"protocol": "https",
+					"host": [
+						"api",
+						"ristaapps",
+						"com"
+					],
+					"path": [
+						"v1",
+						"branch",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getSalesByBranchAndDate",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "dfaf6eea-3622-40d5-b61b-eacdd36fd921"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJkZmFmNmVlYS0zNjIyLTQwZDUtYjYxYi1lYWNkZDM2ZmQ5MjEiLCJpYXQiOjE3MDM1MjY3MDMsImp0aSI6IjYzM2ZkNzFmLThiN2ItNDU3ZC05YWY4LTkyZmUwNzEyZTIxMyJ9.PojEhw6o5qaPM12bZtLJbITHsPcrlf_ugFZok_Az0EA",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.ristaapps.com/v1/analytics/sales/summary?branch=BEL&period=2023-07-25",
+					"protocol": "https",
+					"host": [
+						"api",
+						"ristaapps",
+						"com"
+					],
+					"path": [
+						"v1",
+						"analytics",
+						"sales",
+						"summary"
+					],
+					"query": [
+						{
+							"key": "branch",
+							"value": "BEL"
+						},
+						{
+							"key": "period",
+							"value": "2023-07-25"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getSalesByBranchAndMonth",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "dfaf6eea-3622-40d5-b61b-eacdd36fd921"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJkZmFmNmVlYS0zNjIyLTQwZDUtYjYxYi1lYWNkZDM2ZmQ5MjEiLCJpYXQiOjE3MDM1MjY3MDMsImp0aSI6IjYzM2ZkNzFmLThiN2ItNDU3ZC05YWY4LTkyZmUwNzEyZTIxMyJ9.PojEhw6o5qaPM12bZtLJbITHsPcrlf_ugFZok_Az0EA",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.ristaapps.com/v1/analytics/sales/summary?branch=BEL&period=2023-07",
+					"protocol": "https",
+					"host": [
+						"api",
+						"ristaapps",
+						"com"
+					],
+					"path": [
+						"v1",
+						"analytics",
+						"sales",
+						"summary"
+					],
+					"query": [
+						{
+							"key": "branch",
+							"value": "BEL"
+						},
+						{
+							"key": "period",
+							"value": "2023-07"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getSalesByInvoice",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "dfaf6eea-3622-40d5-b61b-eacdd36fd921"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJkZmFmNmVlYS0zNjIyLTQwZDUtYjYxYi1lYWNkZDM2ZmQ5MjEiLCJpYXQiOjE3MDM1MjY3MDMsImp0aSI6IjYzM2ZkNzFmLThiN2ItNDU3ZC05YWY4LTkyZmUwNzEyZTIxMyJ9.PojEhw6o5qaPM12bZtLJbITHsPcrlf_ugFZok_Az0EA",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.ristaapps.com/v1/sale",
+					"protocol": "https",
+					"host": [
+						"api",
+						"ristaapps",
+						"com"
+					],
+					"path": [
+						"v1",
+						"sale"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getDiscountTransactions",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "dfaf6eea-3622-40d5-b61b-eacdd36fd921"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "x-api-token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJkZmFmNmVlYS0zNjIyLTQwZDUtYjYxYi1lYWNkZDM2ZmQ5MjEiLCJpYXQiOjE3MDM1MjY3MDMsImp0aSI6IjYzM2ZkNzFmLThiN2ItNDU3ZC05YWY4LTkyZmUwNzEyZTIxMyJ9.PojEhw6o5qaPM12bZtLJbITHsPcrlf_ugFZok_Az0EA",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.ristaapps.com/v1/sale",
+					"protocol": "https",
+					"host": [
+						"api",
+						"ristaapps",
+						"com"
+					],
+					"path": [
+						"v1",
+						"sale"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
